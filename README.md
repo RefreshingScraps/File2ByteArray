@@ -8,3 +8,4 @@
 	output_file.write(reinterpret_cast<const char *>(binary_bin), size);
 	output_file.close();
 ```
+即可生成源文件。
